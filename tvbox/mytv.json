@@ -1,95 +1,95 @@
 {
 	"wallpaper": "https://bing.img.run/rand.php",
 	"homepage": "https://github.com/hjdhnx/hipy-server",
-	"logo": "https://81.68.69.242/TVBOX/tvbox/img/logo.png",
+	"logo": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/img/logo.png",
 	"spider": "https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023",
 	"sites": [
 		 {
             "key": "dr_czzy",
             "name": "✨️厂长资源✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/厂长资源.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/厂长资源.js"           
          },
 		 {
             "key": "dr_aigei",
             "name": "✨️爱给✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/爱给.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/爱给.js"           
         },
         {
             "key": "dr_004",
             "name": "✨️杭州教堂✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/杭州教堂.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/杭州教堂.js"           
         },{
             "key": "dr_001",
             "name": "✨️方庄教堂✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/方庄教堂.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/方庄教堂.js"           
         },{
             "key": "dr_002",
             "name": "✨️爱思电影✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/爱思电影.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/爱思电影.js"           
         },{
             "key": "dr_003",
             "name": "✨️PPTV云播✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/PPTV云播.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/PPTV云播.js"           
         },
          {
             "key": "dr_tvb",
             "name": "✨️TVB云播✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/TVB云播.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/TVB云播.js"           
         },
         {
             "key": "dr_AUETE",
             "name": "✨️AUETE影视✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/AUETE影视.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/AUETE影视.js"           
         },
          {
             "key": "dr_keke",
             "name": "✨️可可影视✨️",
             "type": 3,
-            "api": "https://81.68.69.242/TVBOX/tvbox/libs/drpy2.min.js",
+            "api": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/libs/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://81.68.69.242/TVBOX/tvbox/js/可可影视.js"           
+            "ext": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/tvbox/js/可可影视.js"           
         },
         {
             "key": "dr_荐片",
@@ -5340,7 +5340,7 @@
             {
             "name": "IPV4直播",
             "type": 0,
-            "url": "https://81.68.69.242/TVBOX/IPTV4/migu.txt",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/migu_video/refs/heads/main/migu.txt",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
@@ -5348,10 +5348,11 @@
             {
             "name": "圣经聆听",
             "type": 0,
-            "url": "https://81.68.69.242/TVBOX/IPTV4/SJ_Audio.m3u",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/badboy518714/MY_TV/refs/heads/main/IPTV4/SJ_Audio.m3u",
             "playerType": 1,
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
             "logo": "https://live.fanmingming.com/tv/{name}.png"
             }
 	    ]
+
 }
